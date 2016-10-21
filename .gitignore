@@ -1,0 +1,10 @@
+*.zip
+.DS_Store
+.Thumbs
+._*
+~*
+*~
+node_modules
+lib/
+build
+*.class

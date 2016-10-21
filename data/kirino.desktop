@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Kirino
+GenericName=Kirino
+Comment=A virtual assistant chatbot.
+Categories=GTK;Utility;
+Exec=kirino
+Icon=kirino
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=kirino
+Keywords=Kirino;Assistant;Chatbot;
